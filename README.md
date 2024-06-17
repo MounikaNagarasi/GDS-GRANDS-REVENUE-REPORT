@@ -1,4 +1,4 @@
-# GDS-GRANDS-REVENUE-Dashboard
+# GDS-GRANDS-HOSPITALITY-Dashboard
 
 ## Problem Statement
 
